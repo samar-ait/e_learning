@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\E_learningAppBack",
-    "\\E_learningAppBack\\Controllers"
+    "\\E_learningAppBack\\Controllers",
+    "\\E_learningAppBack\\Models"
   ],
-  "SelectedNode": "\\E_learningAppBack\\E_learningAppBack.sln",
+  "SelectedNode": "\\E-learningApp.csproj",
   "PreviewInSolutionExplorer": false
 }
